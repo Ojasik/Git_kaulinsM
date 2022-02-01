@@ -8,5 +8,7 @@ Java projekts kurs realize metama kaulina mesanu.
 - [x]Izveidot GitHub kontu
 - [x]Izveidot GitHub repo
 - [x]Lokalais projekts izvietots GitHub
-- []Papildinats GitHub kratuves saturs ieguts lokalai lietosanai 
-...
+- [x]Papildinats GitHub kratuves saturs ieguts lokalai lietosanai 
+- []Projektam piesledzies vel viens programmetajs un izmeginata kopdarbosanas 
+- []Projekta izveidots jauns zars
+- []Sapludinati zari un noversts merge konflikts
